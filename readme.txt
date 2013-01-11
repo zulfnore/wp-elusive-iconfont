@@ -98,3 +98,7 @@ All code examples on the Elusive Iconfont site apply: [http://aristath.github.co
 * None yet
 
 * Initial release
+
+** To Do List **
+1. Add a way for icons to popup on focus/hover
+2. Add a way to include a link when using the social media icons.
