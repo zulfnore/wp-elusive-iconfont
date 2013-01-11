@@ -105,6 +105,10 @@ All code examples on the Elusive Iconfont site apply: [http://aristath.github.co
 
 * Initial release
 
+** To Do List **
+1. Add a way for icons to popup on focus/hover
+2. Add a way to include a link when using the social media icons.
+
 Credits:
     Elusive Iconfont webfont and associated code are a production of @aristath, by Aristeides Stathopoulos. (http://aristath.github.com/elusive-iconfont/index.html)
     The Elusive Iconfont is licenced under the terms of the SIL - Open Font Licence [http://www.tldrlegal.com/license/open-font-license-%28ofl%29] (http://www.tldrlegal.com/license/open-font-license-%28ofl%29)
