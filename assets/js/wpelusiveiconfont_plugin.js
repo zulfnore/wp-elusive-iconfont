@@ -307,7 +307,7 @@
                     <option value="icon-smiley">icon-smiley</option>\
                     <option value="icon-smiley-alt">icon-smiley-alt</option>\
 				</select><br />\
-				<small>This is just a small sample of the icons - you can replace these with anyother in the shortcode generated.<br />To view more icons visit: http://fortawesome.github.com/Font-Awesome/.</small></td>\
+				<small>Select from over 270+ Icon sets.</small></td>\
 			</tr>\
 			<tr>\
 				<th><label for="wpelusiveiconfont-size">Size</label></th>\
@@ -350,6 +350,15 @@
 					<option value="icon-maroon">icon-maroon</option>\
 					<option value="icon-purple">icon-purple</option>\
 					<option value="icon-pink">icon-pink</option>\
+					<option value="icon-navy">icon-navy</option>\
+                                        <option value="icon-orange">icon-orange</option>\
+                                        <option value="icon-salmon">icon-salmon</option>\
+                                        <option value="icon-limegreen">icon-limegreen</option>\
+                                        <option value="icon-teal">icon-teal</option>\
+                                        <option value="icon-olive">icon-olive</option>\
+                                        <option value="icon-tan">icon-tan</option>\
+                                        <option value="icon-turquoise">icon-turquoise</option>\
+                                        <option value="icon-gray">icon-gray</option>\
 				</select><br />\
 				<small>Specify the color of the icon.</small></td>\
 			</tr>\
