@@ -53,10 +53,9 @@ To generate the shortcode simply look for the Flag icon on your post/page editor
 
 At this point click the Preview Post/Page button to see the result and when you are happy save your work and the plugin will take care of displaying it on the frontend.
 
-__Credits__
-
- * Elusive Iconfont webfont and associated code are licensed under CC BY 3.0 and is a production of @fortaweso_me, by Dave Gandy.
-
+Credits:
+    Elusive Iconfont webfont and associated code are a production of @aristath, by Aristeides Stathopoulos. (http://aristath.github.com/elusive-iconfont/index.html)
+ 
 __Contributors Welcome__
 
 *   Submit a [pull request on Github](https://github.com/zulfnore/wpelusiveiconfont-plugin)
